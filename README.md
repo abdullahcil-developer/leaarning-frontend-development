@@ -1,1 +1,1 @@
-# leaarning-frontend-development
+# learning-frontend-development
